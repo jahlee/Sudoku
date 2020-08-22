@@ -28,6 +28,7 @@
 		8B3B928824EF0685005C8F3B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8B3B928F24F10602005C8F3B /* Sudoku.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Sudoku.cpp; sourceTree = "<group>"; };
 		8B3B929024F10602005C8F3B /* Sudoku.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Sudoku.hpp; sourceTree = "<group>"; };
+		8B3B929324F19135005C8F3B /* Game.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Game.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				8B3B928824EF0685005C8F3B /* main.cpp */,
 				8B3B928F24F10602005C8F3B /* Sudoku.cpp */,
 				8B3B929024F10602005C8F3B /* Sudoku.hpp */,
+				8B3B929324F19135005C8F3B /* Game.hpp */,
 			);
 			path = Sudoku;
 			sourceTree = "<group>";
