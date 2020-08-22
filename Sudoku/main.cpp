@@ -1,10 +1,7 @@
 //  Sudoku V2
 //  Created on 8/20/20
 //  Last updated: 8/22/20
-//  future maybe: save/edit progress(?), files, etc.
 
-
-changes blah 
 #include <iostream>
 #include <iomanip>  // for setfill('-') and setw()
 
